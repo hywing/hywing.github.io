@@ -5,10 +5,10 @@
   
   <entry>
     <title>项目沟通那些事</title>
-    <link href="/2024/06/15/%E9%A1%B9%E7%9B%AE%E6%B2%9F%E9%80%9A%E9%82%A3%E4%BA%9B%E4%BA%8B/"/>
-    <url>/2024/06/15/%E9%A1%B9%E7%9B%AE%E6%B2%9F%E9%80%9A%E9%82%A3%E4%BA%9B%E4%BA%8B/</url>
+    <link href="/2024/08/15/%E9%A1%B9%E7%9B%AE%E6%B2%9F%E9%80%9A%E9%82%A3%E4%BA%9B%E4%BA%8B/"/>
+    <url>/2024/08/15/%E9%A1%B9%E7%9B%AE%E6%B2%9F%E9%80%9A%E9%82%A3%E4%BA%9B%E4%BA%8B/</url>
     
-    <content type="html"><![CDATA[<h2 id="什么叫沟通"><a href="#什么叫沟通" class="headerlink" title="什么叫沟通"></a>什么叫沟通</h2><p>广义的解析是信息的传递与分享的过程；通常有面对面、邮件、电话、短消息、会议等形式，以语言文字、声音、图像作为信息载体；沟通的基本模型用于显示信息如何在发送和接收方之间传递，包括以下几个关键要素：</p><ul><li>编码：把思想或想法转化为他人能理解的语言</li><li>信息和反馈信息</li><li>媒介：用来传递信息的方法，如电话、邮件、会议、书本</li><li>噪声：干扰信息传输和理解的一切因素</li><li>解码：把语言还原为思想或想法，跟编码相对</li></ul><h2 id="项目沟通"><a href="#项目沟通" class="headerlink" title="项目沟通"></a>项目沟通</h2><p>工作中经常需要对接不同岗位性质的人，如人力、采购、技术，不外乎以下几种情形：</p><p><strong>人力</strong>：了解某些规则制度，如差旅报销、福利、上班安排等</p><p><strong>采购</strong>：采购项目用到的设备、零部件、办公软件</p><p><strong>技术</strong>：一起协作开发，解决遇到的难题，像知识分享，结对编程指导</p><p><strong>领导</strong>：了解和反馈项目的方案、进度、瓶颈、用到的资源</p><p>良好的沟通对一个项目的成败至关重要，信息在<code>需求方</code>（信源）到<code>实现方</code>（信宿）传递的过程是越快越好、越准确越好、经历的环节越少越好，这个过程要尽可能减少<code>噪声</code>，确保需求的理解（编码和解码）没有偏差；任何一方拒绝沟通、或者出现噪声都会干扰到项目的开展，造成需求理解的不彻底、偏差，最后项目实现起来也差强人意。一个理想的情况是建立一个<code>学习型</code>、<code>分享型</code>、<code>互动型</code>团队，让所有人都能及时消除信息差</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="什么叫沟通"><a href="#什么叫沟通" class="headerlink" title="什么叫沟通"></a>什么叫沟通</h2><p>广义的解析是信息的传递与分享的过程；通常有面对面、邮件、电话、短消息、会议等形式，以语言文字、声音、图像作为信息载体；沟通的基本模型用于显示信息如何在发送和接收方之间传递，包括以下几个关键要素：</p><ul><li>编码：把思想或想法转化为他人能理解的语言</li><li>信息反馈：编码过程得到的结果</li><li>媒介：用来传递信息的方法，如电话、邮件、会议、书本</li><li>噪声：干扰信息传输和理解的一切因素</li><li>解码：把语言还原为思想或想法，跟编码相对</li></ul><h2 id="项目沟通"><a href="#项目沟通" class="headerlink" title="项目沟通"></a>项目沟通</h2><p>工作中经常需要对接不同岗位性质的人，如人力、采购、技术，不外乎以下几种情形：</p><p><strong>人力</strong>：了解某些规则制度，如差旅报销、福利、上班安排等</p><p><strong>采购</strong>：采购项目用到的设备、零部件、办公软件</p><p><strong>技术</strong>：一起协作开发，解决遇到的难题，像知识分享，结对编程指导</p><p><strong>领导</strong>：了解和反馈项目的方案、进度、瓶颈、用到的资源</p><p>良好的沟通对一个项目的成败至关重要，信息在<code>需求方</code>（信源）到<code>实现方</code>（信宿）传递的过程是越快越好、越准确越好、经历的环节越少越好，这个过程要尽可能减少<code>噪声</code>，确保需求的理解（编码和解码）没有偏差；任何一方拒绝沟通、或者出现噪声都会干扰到项目的开展，造成需求理解的不彻底、偏差，最后项目实现起来也差强人意。一个理想的情况是建立一个<code>学习型</code>、<code>分享型</code>、<code>互动型</code>团队，让所有人都能及时消除信息差</p>]]></content>
     
     
     <categories>
@@ -30,8 +30,8 @@
   
   <entry>
     <title>解决问题还是解决提出问题的人</title>
-    <link href="/2024/05/15/%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E8%BF%98%E6%98%AF%E8%A7%A3%E5%86%B3%E6%8F%90%E5%87%BA%E9%97%AE%E9%A2%98%E7%9A%84%E4%BA%BA/"/>
-    <url>/2024/05/15/%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E8%BF%98%E6%98%AF%E8%A7%A3%E5%86%B3%E6%8F%90%E5%87%BA%E9%97%AE%E9%A2%98%E7%9A%84%E4%BA%BA/</url>
+    <link href="/2024/07/15/%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E8%BF%98%E6%98%AF%E8%A7%A3%E5%86%B3%E6%8F%90%E5%87%BA%E9%97%AE%E9%A2%98%E7%9A%84%E4%BA%BA/"/>
+    <url>/2024/07/15/%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E8%BF%98%E6%98%AF%E8%A7%A3%E5%86%B3%E6%8F%90%E5%87%BA%E9%97%AE%E9%A2%98%E7%9A%84%E4%BA%BA/</url>
     
     <content type="html"><![CDATA[<p>如题，其实提出问题十分重要，人非生而知之者，孰能无惑？十几亿人的国度，不同想法的人肯定也不少。君子和而不同，鼓励提问题有助于吸纳各方的意见，自底向上暴露项目、管理、产品的问题点，一个好的问题往往能抓取事情的主要矛盾、具备启发性；如果不是毫不相干的问题，我觉得都应该对问题本身有所回应，而不是置之不理</p><p>但是，很多时候解决提出问题的人却往往是最终选择，因为谁也没有好的解决办法，所以只能委屈那个人了。这会造成一个困局：大家都不愿意说话了，看似没有新的问题出现了，治理一帆风顺，但问题被掩盖了，一个个地雷被埋了下来，就像上学时老师叫学生有什么不懂的地方可以举手提问，但班上没有一个学生愿意举手一样，到考试时学生的成绩却不尽人意。差生不愿意提问并不是因为他没有疑问，可能他比较自卑，或者他有一个强势的老师，怕被严厉批评，又或者他的同学会嘲笑他的无知，也可能是大家都在装糊涂……</p>]]></content>
     
@@ -55,8 +55,8 @@
   
   <entry>
     <title>我的心曾悲伤七次</title>
-    <link href="/2024/04/15/%E6%88%91%E7%9A%84%E5%BF%83%E6%9B%BE%E6%82%B2%E4%BC%A4%E4%B8%83%E6%AC%A1/"/>
-    <url>/2024/04/15/%E6%88%91%E7%9A%84%E5%BF%83%E6%9B%BE%E6%82%B2%E4%BC%A4%E4%B8%83%E6%AC%A1/</url>
+    <link href="/2024/06/15/%E6%88%91%E7%9A%84%E5%BF%83%E6%9B%BE%E6%82%B2%E4%BC%A4%E4%B8%83%E6%AC%A1/"/>
+    <url>/2024/06/15/%E6%88%91%E7%9A%84%E5%BF%83%E6%9B%BE%E6%82%B2%E4%BC%A4%E4%B8%83%E6%AC%A1/</url>
     
     <content type="html"><![CDATA[<h2 id="中文版"><a href="#中文版" class="headerlink" title="中文版"></a>中文版</h2><p>卡里·纪伯伦，1883—1931</p><p>第一次，当它本可进取时，却故作谦卑；</p><p>第二次，当它在空虚时，用爱欲来填充；</p><p>第三次，在困难和容易之间，它选择了容易；</p><p>第四次，它犯了错，却借由别人也会犯错来宽慰自己；</p><p>第五次，它自由软弱，却把它认为是生命的坚韧；</p><p>第六次，当它鄙夷一张丑恶的嘴脸时，却不知那正是自己面具中的一副；</p><p>第七次，它侧身于生活的污泥中，虽不甘心，却又畏首畏尾。</p><h2 id="English-Version"><a href="#English-Version" class="headerlink" title="English Version"></a>English Version</h2><p>Kahlil Gibran，1883—1931</p><p>The first time when I saw her being meek that she might attain height.</p><p>The second time when I saw her limping before the crippled.</p><p>The third time when she was given to choose between the hard and the easy, and she chose the easy.</p><p>The fourth time when she committed a wrong, and comforted herself that others also commit wrong.</p><p>The fifth time when she forbore for weakness, and attributed her patience to strength.</p><p>The sixth time when she despised the ugliness of a face, and knew not that it was one of her own masks.</p><p>And the seventh time when she sang a song of praise, and deemed it a virtue.</p>]]></content>
     
@@ -80,8 +80,8 @@
   
   <entry>
     <title>开发类书籍</title>
-    <link href="/2024/03/15/%E5%BC%80%E5%8F%91%E7%B1%BB%E4%B9%A6%E7%B1%8D/"/>
-    <url>/2024/03/15/%E5%BC%80%E5%8F%91%E7%B1%BB%E4%B9%A6%E7%B1%8D/</url>
+    <link href="/2024/05/15/%E5%BC%80%E5%8F%91%E7%B1%BB%E4%B9%A6%E7%B1%8D/"/>
+    <url>/2024/05/15/%E5%BC%80%E5%8F%91%E7%B1%BB%E4%B9%A6%E7%B1%8D/</url>
     
     <content type="html"><![CDATA[<h2 id="C"><a href="#C" class="headerlink" title="C"></a>C</h2><p>《C Primer Plus》第五版 《C和指针》《C陷阱与缺陷》《C专家编程》</p><h2 id="C-1"><a href="#C-1" class="headerlink" title="C++"></a>C++</h2><p>《C++ primer》第五版 《C++ primer plus》《Effective C++》《Effective STL》</p><h2 id="shell"><a href="#shell" class="headerlink" title="shell"></a>shell</h2><p>《Linux shell编程》</p><h2 id="Linux"><a href="#Linux" class="headerlink" title="Linux"></a>Linux</h2><p>《鸟哥的Linux私房菜》 《Linux运维之道》《Linux内核设计与实现》第三版</p><h2 id="驱动"><a href="#驱动" class="headerlink" title="驱动"></a>驱动</h2><p>《Linux驱动程序开发实例》第二版</p><h2 id="Qt"><a href="#Qt" class="headerlink" title="Qt"></a>Qt</h2><p>《qt5开发及实例》《pyqt5快速开发与实战》</p><h2 id="Python"><a href="#Python" class="headerlink" title="Python"></a>Python</h2><p>《Python3程序开发指南》第二版</p><h2 id="网络"><a href="#网络" class="headerlink" title="网络"></a>网络</h2><p>《Linux高性能服务器编程》</p><h2 id="设计模式"><a href="#设计模式" class="headerlink" title="设计模式"></a>设计模式</h2><p>《大话设计模式》</p><h2 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h2><p>《高等数学》《概率论与数理统计》《复变函数》《离散数学》</p><h2 id="其它"><a href="#其它" class="headerlink" title="其它"></a>其它</h2><p>《编译原理》《计算机组成原理》《现代操作系统》《数据结构（C语言版）》</p>]]></content>
     
@@ -105,8 +105,8 @@
   
   <entry>
     <title>音乐串烧</title>
-    <link href="/2024/02/15/%E9%9F%B3%E4%B9%90%E4%B8%B2%E7%83%A7/"/>
-    <url>/2024/02/15/%E9%9F%B3%E4%B9%90%E4%B8%B2%E7%83%A7/</url>
+    <link href="/2024/04/15/%E9%9F%B3%E4%B9%90%E4%B8%B2%E7%83%A7/"/>
+    <url>/2024/04/15/%E9%9F%B3%E4%B9%90%E4%B8%B2%E7%83%A7/</url>
     
     <content type="html"><![CDATA[<h2 id="Traveling-Light"><a href="#Traveling-Light" class="headerlink" title="Traveling Light"></a>Traveling Light</h2><p>Joel Hanson、Sara Groves</p><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=674524201&bvid=BV1ZU4y1E7Pg&cid=381874414&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="500" allowfullscreen="true"></iframe><h2 id="If-I-Die-Young"><a href="#If-I-Die-Young" class="headerlink" title="If I Die Young"></a>If I Die Young</h2><p>Kimberly Perry</p><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=860423434&bvid=BV1gG4y1d7Mu&cid=901581204&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="500" allowfullscreen="true"></iframe><h2 id="Waiting-For-Love"><a href="#Waiting-For-Love" class="headerlink" title="Waiting For Love"></a>Waiting For Love</h2><p>Avicii </p><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=202139193&bvid=BV1Eh411X7eM&cid=236417064&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="500" allowfullscreen="true"></iframe><h2 id="Hymn-For-The-Weekend"><a href="#Hymn-For-The-Weekend" class="headerlink" title="Hymn For The Weekend"></a>Hymn For The Weekend</h2><p>Alan Walker</p><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=5166654&bvid=BV1rs411v7Kx&cid=8396556&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="500" allowfullscreen="true"></iframe><h2 id="Tennis-Elbow"><a href="#Tennis-Elbow" class="headerlink" title="Tennis Elbow"></a>Tennis Elbow</h2><p>Sky Sailing</p><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=994619920&bvid=BV1Zs4y12762&cid=1082737272&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="500" allowfullscreen="true"></iframe><h2 id="It’s-My-Life"><a href="#It’s-My-Life" class="headerlink" title="It’s My Life"></a>It’s My Life</h2><p>Bon Jovi </p><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=997229277&bvid=BV1Vs4y1y7TP&cid=1160307388&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="500" allowfullscreen="true"></iframe><h2 id="Centuries"><a href="#Centuries" class="headerlink" title="Centuries"></a>Centuries</h2><p>Fall Out Boy</p><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=454341170&bvid=BV1m5411k7ua&cid=1420401989&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="500" allowfullscreen="true"></iframe><h2 id="I-Am-You"><a href="#I-Am-You" class="headerlink" title="I Am You"></a>I Am You</h2><p>Kim Taylor</p><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=481223288&bvid=BV1iT411C7jW&cid=989948176&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="500" allowfullscreen="true"></iframe><h2 id="This-Is-The-Life"><a href="#This-Is-The-Life" class="headerlink" title="This Is The Life"></a>This Is The Life</h2><p>Angie Miller</p><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=700556075&bvid=BV1mm4y1J7tv&cid=1186706896&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="500" allowfullscreen="true"></iframe>]]></content>
     
@@ -121,6 +121,56 @@
     <tags>
       
       <tag>music</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>诗词集锦</title>
+    <link href="/2024/03/15/%E8%AF%97%E8%AF%8D%E9%9B%86%E9%94%A6/"/>
+    <url>/2024/03/15/%E8%AF%97%E8%AF%8D%E9%9B%86%E9%94%A6/</url>
+    
+    <content type="html"><![CDATA[<h2 id="长歌行"><a href="#长歌行" class="headerlink" title="长歌行"></a>长歌行</h2><p>汉乐府</p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs">青青园中葵，朝露待日晞。<br>阳春布德泽，万物生光辉。<br>常恐秋节至，焜黄华叶衰。<br>百川东到海，何时复西归？<br>少壮不努力，老大徒伤悲！<br></code></pre></td></tr></table></figure><h2 id="观刈麦"><a href="#观刈麦" class="headerlink" title="观刈麦"></a>观刈麦</h2><p>白居易</p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><code class="hljs">田家少闲月，五月人倍忙。<br>夜来南风起，小麦覆陇黄。<br>妇姑荷箪食，童稚携壶浆，<br>相随饷田去，丁壮在南冈。<br>足蒸暑土气，背灼炎天光，<br>力尽不知热，但惜夏日长。<br>复有贫妇人，抱子在其旁，<br>右手秉遗穗，左臂悬敝筐。<br>听其相顾言，闻者为悲伤。<br>家田输税尽，拾此充饥肠。<br>今我何功德？曾不事农桑。<br>吏禄三百石，岁晏有余粮，<br>念此私自愧，尽日不能忘。<br></code></pre></td></tr></table></figure><h2 id="悯农二首"><a href="#悯农二首" class="headerlink" title="悯农二首"></a>悯农二首</h2><p>李绅</p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs">春种一粒粟，秋收万颗子。<br>四海无闲田，农夫犹饿死。<br><br>锄禾日当午，汗滴禾下土。<br>谁知盘中餐，粒粒皆辛苦？<br></code></pre></td></tr></table></figure><h2 id="墨梅"><a href="#墨梅" class="headerlink" title="墨梅"></a>墨梅</h2><p>王冕</p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs">我家洗砚池头树，朵朵花开淡墨痕。<br>不要人夸好颜色，只留清气满乾坤。<br></code></pre></td></tr></table></figure><h2 id="山居秋暝"><a href="#山居秋暝" class="headerlink" title="山居秋暝"></a>山居秋暝</h2><p>王维</p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs">空山新雨后，天气晚来秋。<br>明月松间照，清泉石上流。<br>竹喧归浣女，莲动下渔舟。<br>随意春芳歇，王孙自可留<br></code></pre></td></tr></table></figure><h2 id="饮酒"><a href="#饮酒" class="headerlink" title="饮酒"></a>饮酒</h2><p>陶渊明</p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs">结庐在人境，而无车马喧。<br>问君何能尔？心远地自偏。<br>采菊东篱下，悠然见南山。<br>山气日夕佳，飞鸟相与还。<br>此中有真意，欲辨已忘言。<br></code></pre></td></tr></table></figure><h2 id="蚕妇"><a href="#蚕妇" class="headerlink" title="蚕妇"></a>蚕妇</h2><p>张俞</p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs">昨日入城市，归来泪满巾。<br>遍身罗绮者，不是养蚕人。<br></code></pre></td></tr></table></figure><h2 id="江上渔者"><a href="#江上渔者" class="headerlink" title="江上渔者"></a>江上渔者</h2><p>范仲淹</p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs">江上往来人，但爱鲈鱼美。<br>君看一叶舟，出没风波里。<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>诗词</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>poem</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>屎山是怎么形成的</title>
+    <link href="/2024/02/15/%E5%B1%8E%E5%B1%B1%E6%98%AF%E6%80%8E%E4%B9%88%E5%BD%A2%E6%88%90%E7%9A%84/"/>
+    <url>/2024/02/15/%E5%B1%8E%E5%B1%B1%E6%98%AF%E6%80%8E%E4%B9%88%E5%BD%A2%E6%88%90%E7%9A%84/</url>
+    
+    <content type="html"><![CDATA[<h2 id="1-需求没有做好管控"><a href="#1-需求没有做好管控" class="headerlink" title="1.需求没有做好管控"></a>1.需求没有做好管控</h2><p>现实开发中，真的是人人都争做产品经理，每个人都在提需求（表达欲望），什么是有价值的，什么是没有意义的搞不清，有时候为了讨好客户加一些莫名其妙的功能，也没有人主导需求的评审</p><h2 id="2-失败的变更管理"><a href="#2-失败的变更管理" class="headerlink" title="2.失败的变更管理"></a>2.失败的变更管理</h2><p>硬件多个版本、通信协议多次变更、版本库不受控</p><h2 id="3-技术人员没有职业素养"><a href="#3-技术人员没有职业素养" class="headerlink" title="3.技术人员没有职业素养"></a>3.技术人员没有职业素养</h2><p>没有代码复用意识、没有架构设计、不会使用git、文档缺失、没有测试用例、擅自修改没有通知干系人（沟通意识薄弱）</p><h2 id="4-公司管理不规范"><a href="#4-公司管理不规范" class="headerlink" title="4.公司管理不规范"></a>4.公司管理不规范</h2><p>开发人员反复流失（没有AB工作制、人力有限）、项目交接频繁、没有合理的分享和沟通机制</p><h2 id="5-人性的本质"><a href="#5-人性的本质" class="headerlink" title="5.人性的本质"></a>5.人性的本质</h2><p>人性的本质是差异化的独立个体，正是异质性的存在造就了利己性的个体；正所谓世界上没有完全相同的两片叶子，不论何处何地、何时何刻，人与人的感触、思考、诉求、行为都不可能一模一样，也就不存在完全换位思考的沟通模式，这个是造成屎山的根本原因；因此屎山不能杜绝，只能减轻</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>工作</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>work</tag>
       
     </tags>
     
@@ -146,56 +196,6 @@
     <tags>
       
       <tag>history</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>诗词集锦</title>
-    <link href="/2023/12/15/%E8%AF%97%E8%AF%8D%E9%9B%86%E9%94%A6/"/>
-    <url>/2023/12/15/%E8%AF%97%E8%AF%8D%E9%9B%86%E9%94%A6/</url>
-    
-    <content type="html"><![CDATA[<h2 id="长歌行"><a href="#长歌行" class="headerlink" title="长歌行"></a>长歌行</h2><p>汉乐府</p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs">青青园中葵，朝露待日晞。<br>阳春布德泽，万物生光辉。<br>常恐秋节至，焜黄华叶衰。<br>百川东到海，何时复西归？<br>少壮不努力，老大徒伤悲！<br></code></pre></td></tr></table></figure><h2 id="观刈麦"><a href="#观刈麦" class="headerlink" title="观刈麦"></a>观刈麦</h2><p>白居易</p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><code class="hljs">田家少闲月，五月人倍忙。<br>夜来南风起，小麦覆陇黄。<br>妇姑荷箪食，童稚携壶浆，<br>相随饷田去，丁壮在南冈。<br>足蒸暑土气，背灼炎天光，<br>力尽不知热，但惜夏日长。<br>复有贫妇人，抱子在其旁，<br>右手秉遗穗，左臂悬敝筐。<br>听其相顾言，闻者为悲伤。<br>家田输税尽，拾此充饥肠。<br>今我何功德？曾不事农桑。<br>吏禄三百石，岁晏有余粮，<br>念此私自愧，尽日不能忘。<br></code></pre></td></tr></table></figure><h2 id="悯农二首"><a href="#悯农二首" class="headerlink" title="悯农二首"></a>悯农二首</h2><p>李绅</p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs">春种一粒粟，秋收万颗子。<br>四海无闲田，农夫犹饿死。<br><br>锄禾日当午，汗滴禾下土。<br>谁知盘中餐，粒粒皆辛苦？<br></code></pre></td></tr></table></figure><h2 id="墨梅"><a href="#墨梅" class="headerlink" title="墨梅"></a>墨梅</h2><p>王冕</p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs">我家洗砚池头树，朵朵花开淡墨痕。<br>不要人夸好颜色，只留清气满乾坤。<br></code></pre></td></tr></table></figure><h2 id="山居秋暝"><a href="#山居秋暝" class="headerlink" title="山居秋暝"></a>山居秋暝</h2><p>王维</p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs">空山新雨后，天气晚来秋。<br>明月松间照，清泉石上流。<br>竹喧归浣女，莲动下渔舟。<br>随意春芳歇，王孙自可留<br></code></pre></td></tr></table></figure><h2 id="饮酒"><a href="#饮酒" class="headerlink" title="饮酒"></a>饮酒</h2><p>陶渊明</p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs">结庐在人境，而无车马喧。<br>问君何能尔？心远地自偏。<br>采菊东篱下，悠然见南山。<br>山气日夕佳，飞鸟相与还。<br>此中有真意，欲辨已忘言。<br></code></pre></td></tr></table></figure><h2 id="蚕妇"><a href="#蚕妇" class="headerlink" title="蚕妇"></a>蚕妇</h2><p>张俞</p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs">昨日入城市，归来泪满巾。<br>遍身罗绮者，不是养蚕人。<br></code></pre></td></tr></table></figure><h2 id="江上渔者"><a href="#江上渔者" class="headerlink" title="江上渔者"></a>江上渔者</h2><p>范仲淹</p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs">江上往来人，但爱鲈鱼美。<br>君看一叶舟，出没风波里。<br></code></pre></td></tr></table></figure>]]></content>
-    
-    
-    <categories>
-      
-      <category>诗词</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>poem</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>屎山是怎么形成的</title>
-    <link href="/2023/11/15/%E5%B1%8E%E5%B1%B1%E6%98%AF%E6%80%8E%E4%B9%88%E5%BD%A2%E6%88%90%E7%9A%84/"/>
-    <url>/2023/11/15/%E5%B1%8E%E5%B1%B1%E6%98%AF%E6%80%8E%E4%B9%88%E5%BD%A2%E6%88%90%E7%9A%84/</url>
-    
-    <content type="html"><![CDATA[<h2 id="1-需求没有做好管控"><a href="#1-需求没有做好管控" class="headerlink" title="1.需求没有做好管控"></a>1.需求没有做好管控</h2><p>现实开发中，真的是人人都争做产品经理，每个人都在提需求（表达欲望），什么是有价值的，什么是没有意义的搞不清，有时候为了讨好客户加一些莫名其妙的功能，也没有人主导需求的评审</p><h2 id="2-失败的变更管理"><a href="#2-失败的变更管理" class="headerlink" title="2.失败的变更管理"></a>2.失败的变更管理</h2><p>硬件多个版本、通信协议多次变更、版本库不受控</p><h2 id="3-技术人员没有职业素养"><a href="#3-技术人员没有职业素养" class="headerlink" title="3.技术人员没有职业素养"></a>3.技术人员没有职业素养</h2><p>没有代码复用意识、没有架构设计、不会使用git、文档缺失、没有测试用例、擅自修改没有通知干系人（沟通意识薄弱）</p><h2 id="4-公司管理不规范"><a href="#4-公司管理不规范" class="headerlink" title="4.公司管理不规范"></a>4.公司管理不规范</h2><p>开发人员反复流失（没有AB工作制、人力有限）、项目交接频繁、没有合理的分享和沟通机制</p><h2 id="5-人性的本质"><a href="#5-人性的本质" class="headerlink" title="5.人性的本质"></a>5.人性的本质</h2><p>人性的本质是差异化的独立个体，正是异质性的存在造就了利己性的个体；正所谓世界上没有完全相同的两片叶子，不论何处何地、何时何刻，人与人的感触、思考、诉求、行为都不可能一模一样，也就不存在完全换位思考的沟通模式，这个是造成屎山的根本原因；因此屎山不能杜绝，只能减轻</p>]]></content>
-    
-    
-    <categories>
-      
-      <category>工作</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>work</tag>
       
     </tags>
     
